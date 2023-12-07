@@ -58,4 +58,4 @@ See scripts in [segmentation/experiments](segmentation/experiments) for examples
 
 - The code in [/classification](/classification) repository contains code contributions from James Fox, Sandra Reitinger, and David Peer.
 
-- The code in [/segmentation](/segmentation) is based on a clone of https://github.com/ultralytics/yolov5 made on 2023-03-19. Any bugs introduced are our own.
+
